@@ -1,0 +1,1347 @@
+fileFormatVersion: 2
+guid: 381e31703de88af4699349b827c11c82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2482644935708485796
+    second: Eten_0
+  - first:
+      213: -142737428452549079
+    second: Eten_1
+  - first:
+      213: 384254088504661969
+    second: Eten_2
+  - first:
+      213: -6603034963157881134
+    second: Eten_3
+  - first:
+      213: -3165108959185496473
+    second: Eten_4
+  - first:
+      213: -8828667819710190557
+    second: Eten_5
+  - first:
+      213: -7249445542933818453
+    second: Eten_6
+  - first:
+      213: -3492798206228487257
+    second: Eten_7
+  - first:
+      213: -338801582403064582
+    second: Eten_8
+  - first:
+      213: -4267657956552736045
+    second: Eten_9
+  - first:
+      213: 8433520950976485820
+    second: Eten_10
+  - first:
+      213: 5245599163512669459
+    second: Eten_11
+  - first:
+      213: -7120954644391881602
+    second: Eten_12
+  - first:
+      213: 3679005082764616893
+    second: Eten_13
+  - first:
+      213: -8987627652859088366
+    second: Eten_14
+  - first:
+      213: 3391299047688228140
+    second: Eten_15
+  - first:
+      213: -4777179849712893093
+    second: Eten_16
+  - first:
+      213: 5297746060681211911
+    second: Eten_17
+  - first:
+      213: -7129774712919423917
+    second: Eten_18
+  - first:
+      213: -440833096839886257
+    second: Eten_19
+  - first:
+      213: -3701853660446301594
+    second: Eten_20
+  - first:
+      213: -1421057297225426408
+    second: Eten_21
+  - first:
+      213: -6693920869689351892
+    second: Eten_22
+  - first:
+      213: -2871968399848090890
+    second: Eten_23
+  - first:
+      213: -2512360598266349290
+    second: Eten_24
+  - first:
+      213: -3242367093669511295
+    second: Eten_25
+  - first:
+      213: -1440248786966731089
+    second: Eten_26
+  - first:
+      213: 5775253161805619696
+    second: Eten_27
+  - first:
+      213: 8981166364446415625
+    second: Eten_28
+  - first:
+      213: -9001064117940405721
+    second: Eten_29
+  - first:
+      213: 8208667567342192442
+    second: Eten_30
+  - first:
+      213: 7871174863970126090
+    second: Eten_31
+  - first:
+      213: -8486190466451336280
+    second: Eten_32
+  - first:
+      213: -8125618305725397609
+    second: Eten_33
+  - first:
+      213: -8571045025089756922
+    second: Eten_34
+  - first:
+      213: -8688233130363743088
+    second: Eten_35
+  - first:
+      213: -7398646114419145300
+    second: Eten_36
+  - first:
+      213: -6463991689693916155
+    second: Eten_37
+  - first:
+      213: 8923180509895240265
+    second: Eten_38
+  - first:
+      213: 6329687191296137679
+    second: Eten_39
+  - first:
+      213: 4839863831622350157
+    second: Eten_40
+  - first:
+      213: 7829647930882947760
+    second: Eten_41
+  - first:
+      213: 2907105441905377266
+    second: Eten_42
+  - first:
+      213: 2563406163743574534
+    second: Eten_43
+  - first:
+      213: -744389706399769095
+    second: Eten_44
+  - first:
+      213: 4240655336965781043
+    second: Eten_45
+  - first:
+      213: 6807371595473499765
+    second: Eten_46
+  - first:
+      213: -5047957840481631329
+    second: Eten_47
+  - first:
+      213: -9000539028647561602
+    second: Eten_48
+  - first:
+      213: -2875748323965131087
+    second: Eten_49
+  - first:
+      213: -7809366950490520185
+    second: Eten_50
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eten_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2626.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847e61101a3726043b35104382739deb
+      internalID: 2482644935708485796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_1
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2626.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00cdc42ff93559489a56dfef3c76f7e
+      internalID: -142737428452549079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_2
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2626.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca00aabbe37267f408fa1aaa96ec8605
+      internalID: 384254088504661969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_3
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2626.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a7a7f3ea14a894b87c186799d5fef5
+      internalID: -6603034963157881134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_4
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2626.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862fbe6f00f96c842b8f007e0fbf34b8
+      internalID: -3165108959185496473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_5
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2626.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a227e7709c7875941b944add24893b3b
+      internalID: -8828667819710190557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_6
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 2626.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e9753718a985346bac69fdec3c10ec
+      internalID: -7249445542933818453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_7
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 2626.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3b5ec0a3218134e86a1987c7d48868
+      internalID: -3492798206228487257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_8
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 2626.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbf5974d9c12244da443aa175ebf563
+      internalID: -338801582403064582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2101.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60c12ade03bc994fa8ddc8455d2f4b1
+      internalID: -4267657956552736045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2101.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d36fa93e7a13443a5edeaa7a1e08d9
+      internalID: 8433520950976485820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_11
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2101.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2108a25d4e412ac4e855a55230751e18
+      internalID: 5245599163512669459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_12
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2101.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478e14f8793fcba4fb1fe41fdd9b8aa7
+      internalID: -7120954644391881602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_13
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2101.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e904e30962677c4c8cbf043ba3ba9da
+      internalID: 3679005082764616893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_14
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2101.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1d712beb019074e97ac1c2a957235c
+      internalID: -8987627652859088366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_15
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 2101.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804f5f92574e50049ae09ca6fdba6527
+      internalID: 3391299047688228140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_16
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 2101.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9b30ef7f0de2b4c878ad166f1ea375
+      internalID: -4777179849712893093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_17
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 2101.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87dbe5200d40da468f88ec644fbbd92
+      internalID: 5297746060681211911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1576.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d0e7265106c2b4bbe676f824be72e3
+      internalID: -7129774712919423917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1576.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45315ea34cfba7543ac0a3a2b6537f85
+      internalID: -440833096839886257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_20
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1576.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a084b9be6bfd4dae43c811f75113b
+      internalID: -3701853660446301594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_21
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1576.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75cd3219790614458ca37fd21986a47
+      internalID: -1421057297225426408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_22
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1576.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89616ef561d946447a1ca3b351852f28
+      internalID: -6693920869689351892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_23
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1576.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc56909becfba9e4a8edd29b53eade9f
+      internalID: -2871968399848090890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_24
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 1576.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0690cc183ba9ec247ade2da504c5ee05
+      internalID: -2512360598266349290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_25
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 1576.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb18d099450c45e43901b4e1de33cbcb
+      internalID: -3242367093669511295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_26
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1576.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200fb6d221d43804bbd4ad5fcc1c4678
+      internalID: -1440248786966731089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1051.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4708bc388e1ea3419d53bb9eae15345
+      internalID: 5775253161805619696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_28
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1051.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e087a58d07831374b89be95a0c5cce24
+      internalID: 8981166364446415625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_29
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1051.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca27187d30a8b64cbd1e0cb6fef2ad1
+      internalID: -9001064117940405721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_30
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1051.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1972c28e81929241a123d41c8ea28d9
+      internalID: 8208667567342192442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_31
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1051.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aad105e5963c648a06dc9295612acc
+      internalID: 7871174863970126090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_32
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1051.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32f8a774ef001d489b142df99080fc9
+      internalID: -8486190466451336280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_33
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 1051.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7681aca54858554b83f96fb78a8f7f2
+      internalID: -8125618305725397609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_34
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 1051.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbf5220a448398458991f51b9b82d8c
+      internalID: -8571045025089756922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_35
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1051.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37204038fd9a7bf4ea3835e160bf42fd
+      internalID: -8688233130363743088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066568fe3c353cd46ad91bc247b84ce0
+      internalID: -7398646114419145300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_37
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 526.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e61f1ea326402040b60215f6ee51347
+      internalID: -6463991689693916155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_38
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 526.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90291fbd58b19db49b575e97c2e6df22
+      internalID: 8923180509895240265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_39
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 526.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ef1c59efa92e248b54052a2c8bd176
+      internalID: 6329687191296137679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_40
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 526.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c652f1c9fd9da24db46d4550ed7a852
+      internalID: 4839863831622350157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_41
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 526.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5381327322afd3d4498ac365d83aca81
+      internalID: 7829647930882947760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_42
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 526.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d4bc4343b59e14196d80b1ea9926fe
+      internalID: 2907105441905377266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_43
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 526.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d0dfe702531b4c88223c9a88d076d
+      internalID: 2563406163743574534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_44
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 526.6667
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcedb8528ef786f4399e54db0437c550
+      internalID: -744389706399769095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.666687
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc18fdf369749d3499b2e69c052044cb
+      internalID: 4240655336965781043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1.666687
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c083c27fe3e894f448b815904e473dd2
+      internalID: 6807371595473499765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_47
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1.666687
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf88fbba0421b0542a95ec0edb95086c
+      internalID: -5047957840481631329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_48
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1.666687
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760b8ee2275009d49af7e9946495f3c2
+      internalID: -9000539028647561602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_49
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1.666687
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee4f6125bf766b40a14bd98be189386
+      internalID: -2875748323965131087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eten_50
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1.666687
+        width: 459.1111
+        height: 525.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453ca4de1f7e2e54488f50ead5831306
+      internalID: -7809366950490520185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b78bad4a5bb62924f82d1249830bcfee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

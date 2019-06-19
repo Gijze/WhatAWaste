@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: 45c9b90415925564ebf7c7cb45a35109
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4184451281707844720
+    second: Sprite ober lopen_0
+  - first:
+      213: 1576347863293357849
+    second: Sprite ober lopen_1
+  - first:
+      213: -7703261965963949483
+    second: Sprite ober lopen_2
+  - first:
+      213: 1181347563100672689
+    second: Sprite ober lopen_3
+  - first:
+      213: 4534325976388843135
+    second: Sprite ober lopen_4
+  - first:
+      213: 2357876266352608849
+    second: Sprite ober lopen_5
+  - first:
+      213: 8385397739254576316
+    second: Sprite ober lopen_6
+  - first:
+      213: -6055822202168726161
+    second: Sprite ober lopen_7
+  - first:
+      213: 5925340661507218567
+    second: Sprite ober lopen_8
+  - first:
+      213: -5003997127154326361
+    second: Sprite ober lopen_9
+  - first:
+      213: -3588583700895039810
+    second: Sprite ober lopen_10
+  - first:
+      213: 952133575632007393
+    second: Sprite ober lopen_11
+  - first:
+      213: 7739941168327534602
+    second: Sprite ober lopen_12
+  - first:
+      213: -283923502660894975
+    second: Sprite ober lopen_13
+  - first:
+      213: 4113610258003925689
+    second: Sprite ober lopen_14
+  - first:
+      213: -593577208291028360
+    second: Sprite ober lopen_15
+  - first:
+      213: -2165630533633109194
+    second: Sprite ober lopen_16
+  - first:
+      213: -5287350164176283814
+    second: Sprite ober lopen_17
+  - first:
+      213: 5392615440263952093
+    second: Sprite ober lopen_18
+  - first:
+      213: 718437538734045379
+    second: Sprite ober lopen_19
+  - first:
+      213: -6612248304407737560
+    second: Sprite ober lopen_20
+  - first:
+      213: -1746912918133943071
+    second: Sprite ober lopen_21
+  - first:
+      213: 6275766133515759244
+    second: Sprite ober lopen_22
+  - first:
+      213: 2699412225494992136
+    second: Sprite ober lopen_23
+  - first:
+      213: 5533200723225483613
+    second: Sprite ober lopen_24
+  - first:
+      213: 8888982016694271510
+    second: Sprite ober lopen_25
+  - first:
+      213: -7673633325802383596
+    second: Sprite ober lopen_26
+  - first:
+      213: 8024044420684320414
+    second: Sprite ober lopen_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite ober lopen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2409
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be86de54c51e6ca4790bf776be731f0f
+      internalID: -4184451281707844720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_1
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2409
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e82957316a53247af24031e3b30c6b
+      internalID: 1576347863293357849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_2
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 2409
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca331c83beb1143b9af5255543d903
+      internalID: -7703261965963949483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_3
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 2409
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b953b6d48deb28e43957347caa8ce260
+      internalID: 1181347563100672689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_4
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 2409
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031e35f30e74b334db5907af3becea0b
+      internalID: 4534325976388843135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_5
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 2409
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d682c1fb35d247b82e106d49685e8
+      internalID: 2357876266352608849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_6
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 2409
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3500de0fd1b87f34f89800676e6ef110
+      internalID: 8385397739254576316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1606
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3e86566b15ab04a8adebef7311578c
+      internalID: -6055822202168726161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_8
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1606
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5cc1fb405a1844fb343a4c076f5f0c
+      internalID: 5925340661507218567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_9
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1606
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2ed64e13518f84f9a8837d705b8a56
+      internalID: -5003997127154326361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_10
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 1606
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bb8273c2a3d2c4cadf01122d6cfb9e
+      internalID: -3588583700895039810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_11
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1606
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eb3ab9310553e44bde688d9cec19cd
+      internalID: 952133575632007393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_12
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 1606
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e238afe68bbe5b64ea821cc92783e65b
+      internalID: 7739941168327534602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_13
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 1606
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3d729c5a16d9e42be394974c1456cc
+      internalID: -283923502660894975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 803
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4690a2171b711c43840842acc2ff022
+      internalID: 4113610258003925689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_15
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 803
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d5f2de0839b434a95d951ecf5699fe
+      internalID: -593577208291028360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_16
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 803
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d1479addec1c54dae56c17b24c21e4
+      internalID: -2165630533633109194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_17
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 803
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aadfed585f95c4fa6d50cc31f9c49d
+      internalID: -5287350164176283814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_18
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 803
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385d1c7eb6c2ab54d8b2ae405f1ce3d3
+      internalID: 5392615440263952093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_19
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 803
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec95a44e99888349a148c78e9272af4
+      internalID: 718437538734045379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_20
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 803
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efed552e86d07d04db211bfc57f03760
+      internalID: -6612248304407737560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62a35d93cf3b534dac3f05d85bc62d6
+      internalID: -1746912918133943071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_22
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf3519e587d8742b757ac89f2c2fcb
+      internalID: 6275766133515759244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_23
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 0
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8404fd656f851c84a9e6149cd7c5c51c
+      internalID: 2699412225494992136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_24
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 0
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66cc01a87a5cd249bb24916ab32d110
+      internalID: 5533200723225483613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_25
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 0
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f0094e8f5482440a1ccfd3fbfe7360
+      internalID: 8888982016694271510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_26
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 0
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05df9a20dc1936a45a32c81feb0b980b
+      internalID: -7673633325802383596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober lopen_27
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 0
+        width: 714.2857
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d6a3214df6bf49926043a84fd1274
+      internalID: 8024044420684320414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c55043181dc3ddd42923ae7d0e226f1f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

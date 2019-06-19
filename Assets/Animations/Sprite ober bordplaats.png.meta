@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: bd633e9622af2f142b5f2178d467f2a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6631500446787906051
+    second: Sprite ober bordplaats_0
+  - first:
+      213: -7241672773317830335
+    second: Sprite ober bordplaats_1
+  - first:
+      213: 5649125800977542461
+    second: Sprite ober bordplaats_2
+  - first:
+      213: 7085032614409991773
+    second: Sprite ober bordplaats_3
+  - first:
+      213: 3575644546208529689
+    second: Sprite ober bordplaats_4
+  - first:
+      213: -1304161251139398349
+    second: Sprite ober bordplaats_5
+  - first:
+      213: 5184858113693577811
+    second: Sprite ober bordplaats_6
+  - first:
+      213: 5383359012933641369
+    second: Sprite ober bordplaats_7
+  - first:
+      213: -4052254062587516810
+    second: Sprite ober bordplaats_8
+  - first:
+      213: 2754816495630510363
+    second: Sprite ober bordplaats_9
+  - first:
+      213: -4973377059650875927
+    second: Sprite ober bordplaats_10
+  - first:
+      213: -7972300542734783026
+    second: Sprite ober bordplaats_11
+  - first:
+      213: 4759703480135170595
+    second: Sprite ober bordplaats_12
+  - first:
+      213: 122050804081843720
+    second: Sprite ober bordplaats_13
+  - first:
+      213: -5585060055217424460
+    second: Sprite ober bordplaats_14
+  - first:
+      213: 4011190032755997844
+    second: Sprite ober bordplaats_15
+  - first:
+      213: 5121298773457776559
+    second: Sprite ober bordplaats_16
+  - first:
+      213: 4878345379278450656
+    second: Sprite ober bordplaats_17
+  - first:
+      213: -2361873322508645180
+    second: Sprite ober bordplaats_18
+  - first:
+      213: 3349529297640729146
+    second: Sprite ober bordplaats_19
+  - first:
+      213: 7010442669094212070
+    second: Sprite ober bordplaats_20
+  - first:
+      213: 8662722063552462110
+    second: Sprite ober bordplaats_21
+  - first:
+      213: -2747551643889374314
+    second: Sprite ober bordplaats_22
+  - first:
+      213: 1615891673354187512
+    second: Sprite ober bordplaats_23
+  - first:
+      213: 4379481651036928324
+    second: Sprite ober bordplaats_24
+  - first:
+      213: 6539958703065635326
+    second: Sprite ober bordplaats_25
+  - first:
+      213: -8608126036887732866
+    second: Sprite ober bordplaats_26
+  - first:
+      213: -1027482731102265300
+    second: Sprite ober bordplaats_27
+  - first:
+      213: 8162416131871622797
+    second: Sprite ober bordplaats_28
+  - first:
+      213: 3948353899720916720
+    second: Sprite ober bordplaats_29
+  - first:
+      213: -5479475906521693782
+    second: Sprite ober bordplaats_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4070
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada31b2e50e041843890ff6644b5d5db
+      internalID: 6631500446787906051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_1
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 4070
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275785338fdb4c544b0f5cf4de140d37
+      internalID: -7241672773317830335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_2
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 4070
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2cae293f4298643b40eede53384b2f
+      internalID: 5649125800977542461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_3
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 4070
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2130c737df072c468c73a86fb4a4f83
+      internalID: 7085032614409991773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_4
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 4070
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b6cd7a6c5d52043ac1dc2a5d5f6544
+      internalID: 3575644546208529689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_5
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 4070
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aa2d77601f9464e8388bb90900b7bf
+      internalID: -1304161251139398349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3256
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0722fa47f7018474cad1089ae82563ee
+      internalID: 5184858113693577811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_7
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 3256
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be910e24a7957a4d9586c2b21dd77f5
+      internalID: 5383359012933641369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_8
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3256
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdac2b3bc1d11e42814e8d807492a6e
+      internalID: -4052254062587516810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_9
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 3256
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087d220fab0dacd45add6e0263b4b55d
+      internalID: 2754816495630510363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_10
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 3256
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7894896861527b4286086dfd8e39652
+      internalID: -4973377059650875927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_11
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 3256
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6764ad36e21d4644385297102ad1949c
+      internalID: -7972300542734783026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2442
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8db355e110e594c9f8c0d45be95e29
+      internalID: 4759703480135170595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_13
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2442
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368809fd1048e8842ae2d2fae62c0c49
+      internalID: 122050804081843720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_14
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 2442
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786f56d67091c13489f54525435fd378
+      internalID: -5585060055217424460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_15
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 2442
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4637e729a4085141bca16326e57a39f
+      internalID: 4011190032755997844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_16
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 2442
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111f8cb88c9f9ba458c1f342143300bd
+      internalID: 5121298773457776559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_17
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 2442
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879fcaa5131248b468829bc7b1489e37
+      internalID: 4878345379278450656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1628
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a310d4194e4822c44aeccebc729ef7fa
+      internalID: -2361873322508645180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_19
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1628
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dc47ce773779248a76debc80e9a3f0
+      internalID: 3349529297640729146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_20
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1628
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aee808937ba6147818f6fdaa32a3bc
+      internalID: 7010442669094212070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_21
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 1628
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf6818ac76076b47898f0b4987b4e59
+      internalID: 8662722063552462110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_22
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 1628
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cff2d7f7f50f145b30a39535fda652
+      internalID: -2747551643889374314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_23
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 1628
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdba949bd1f49f344929743b8d79f8b8
+      internalID: 1615891673354187512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f25e5b1e289a894fa89fa415606c2ec
+      internalID: 4379481651036928324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_25
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 814
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1ebb4862bc7054099ec3d8ffff3f86
+      internalID: 6539958703065635326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_26
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 814
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7982b84f253d59c438fa7f88c7f88434
+      internalID: -8608126036887732866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_27
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 814
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91292ac419eba944ba8e326946c96fac
+      internalID: -1027482731102265300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_28
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 814
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca244c3ab487a64dbf27658df3b3fee
+      internalID: 8162416131871622797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_29
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 814
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde1d3a8858463840aed2c8825476831
+      internalID: 3948353899720916720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite ober bordplaats_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 751.3333
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdb5c505227c914c9e4a5ca1704dd1d
+      internalID: -5479475906521693782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b2fe5f59d48638b49a8ff586f4ed6f1e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
